@@ -1,2 +1,2 @@
 # ignore all .a files
-Session4/images/*.a
+/Session4/images/*
